@@ -1,8 +1,15 @@
 # Skills-in-MSIS-students
-Tableau link: https://public.tableau.com/profile/sanjana.thakur#!/vizhome/SkillsSCU/Dashboard1?publish=yes
+Tableau link: 
+Previous-> https://public.tableau.com/profile/sanjana.thakur#!/vizhome/SkillsSCU/Dashboard1?publish=yes
+New-> https://public.tableau.com/profile/sanjana.thakur#!/vizhome/SkillsRecruitmentSCU/SCU-MSISstudentsarerecruitedbytopcompaniesduetotheskillstheyhaveacquiredintheircourses?publish=yes
 
-Claim: Masters of Information System studenst at Santa Clara University have skillsets required to earn above average at their jobs.
+Claim: MSIS students from SCU are recruited by top companies due to skills they have acquired in their courses.
 
-Support: The above average salary in IT sector is $44,148 per year for a 40-hour work week according to Bureau of Labor Statistics.
+The visualization contains two parts. 
+One shows that SCU is offering the courses that are in demand on LinkedIn. It integrates those skills with the courses offered and with average salary earned in that skill. It is helpful for recruiters because in a sense it sets a minimum expectation from candidates and lets them know the range they should be willing to offer while hiring. 
 
-Warrant: https://www.thebalance.com/average-salary-information-for-us-workers-2060808
+![ScreenShot](https://user-images.githubusercontent.com/32226479/32984810-4632babe-cc62-11e7-8d34-c1c6f7ba7bcb.png)
+
+Next part of the visualization shows number of alumni hired by top companies in bay area. This gives recruiters an idea of talent pool based on previous hiring’s.
+
+![ScreenShot](https://user-images.githubusercontent.com/32226479/32984881-e4df31d2-cc63-11e7-87be-77b8a0ce90bb.png)
